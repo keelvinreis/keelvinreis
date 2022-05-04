@@ -5,8 +5,8 @@
 Here are some ideas to get you started:-->
 
 - 🔭 Hoje busco trabalhar o maximo do desenvolvimento o Web
-- 🌱 Estudo javaScrip  e Frameworks
-- 👯 Projetos de desenvolvimento
+- 🌱 Estudo javaScrip e Frameworks
+- 👯 Busco ajudar em Projetos de desenvolvimento
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Setup's minimalista & aprender em grupo.
+- ⚡ Curiosidade: Setup's minimalista & aprender e ensinar em grupo(acho o maximo trocar informações).
 
