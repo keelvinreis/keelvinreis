@@ -6,7 +6,7 @@ Here are some ideas to get you started:-->
 
 🔭 Hoje busco trabalhar no desenvolvimento Full Stack com diversas tecnologias
 
-🌱 Estudo javaScrip e Frameworks
+🌱 Estudo javaScript e Frameworks
 
 👯 Busco ajudar em Projetos de desenvolvimento
 
