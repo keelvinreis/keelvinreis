@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Hoje busco trabalhar o maximo do desenvolvimento o Web
+- 🔭 Hoje busco trabalhar o maximo do desenvolvimento Full Stack
 - 🌱 Estudo javaScrip e Frameworks
 - 👯 Busco ajudar em Projetos de desenvolvimento
 - 😄 Pronomes: ele/dele
